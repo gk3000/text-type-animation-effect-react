@@ -22,6 +22,8 @@ Render passing the props with the text to type, interval (optional) and HTML ele
 <TextTyper text={textToRender} interval={10} Markup={"code"} />
 ```
 
+<img src='https://barcelonacodeschool.com/files/pics/text-type-animation-effect-react.gif' alt='A layout component to create a typewriter typing animation effect for text'/>
+
 ## Props
 
 <table>
