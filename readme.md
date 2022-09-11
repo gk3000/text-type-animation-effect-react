@@ -24,7 +24,36 @@ Render passing the props with the text to type, interval (optional) and HTML ele
 
 ## Props
 
-
+<table>
+<thead>
+  <tr>
+    <th>Name</th>
+    <th>Type</th>
+    <th>Default</th>
+    <th>Description</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>text</td>
+    <td>string</td>
+    <td>''</td>
+    <td>String text value you want to print. The text which would be rendered with the typing animation effect</td>
+  </tr>
+  <tr>
+    <td>interval</td>
+    <td>number</td>
+    <td>100</td>
+    <td>Number in millisecond to control the speed of typing, delay between rendering each character in milliseconds</td>
+  </tr>
+  <tr>
+    <td>Markaup</td>
+    <td>string</td>
+    <td>span</td>
+    <td>Any valid HTML element to render your text within, like p, h1, span, code, etc...</td>
+  </tr>
+</tbody>
+</table>
 
 There are two props accepted: `columns` and `gap`
 
