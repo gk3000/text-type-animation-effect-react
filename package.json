@@ -1,6 +1,6 @@
 {
   "name": "text-type-animation-effect-react",
-  "version": "1.2.7",
+  "version": "1.2.8",
   "description": "",
   "keywords": [],
   "main": "index.js",
@@ -21,6 +21,21 @@
     "build": "./node_modules/.bin/babel src --out-file index.js",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
+  },
+    "repository": {
+    "type": "git",
+    "url": "https://github.com/gk3000/text-type-animation-effect-react"
+  },
+  "keywords": [
+    "react",
+    "typing animation react",
+    "typewriter animation effect react",
+    "barcelona code school"
+  ],
+  "author": "GK3000",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gk3000/text-type-animation-effect-react/issues"
   },
   "browserslist": [
     ">0.2%",
